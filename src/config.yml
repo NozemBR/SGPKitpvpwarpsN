@@ -1,0 +1,41 @@
+#kits
+
+FPS:
+fps-sword: STONE_SWORD
+fps-helmet: IRON_HELMET
+fps-chestplate: IRON_CHESTPLATE
+fps-leggings: IRON_LEGGINGS
+fps-boots: IRON_BOOTS
+
+knock:
+  - "KNOCKBACK-1"
+
+  #localidades
+fps:
+  x: -20.95681143560484
+  y: 145.0
+  z: 3.859476791894484
+  pitch: 12.1140995
+  yaw: -4.9700813
+  world: world
+lava:
+  x: -20.95681143560484
+  y: 145.0
+  z: 3.859476791894484
+  pitch: 12.1140995
+  yaw: -4.9700813
+  world: world
+knockback:
+  x: -20.95681143560484
+  y: 145.0
+  z: 3.859476791894484
+  pitch: 12.1140995
+  yaw: -4.9700813
+  world: world
+sair:
+  x: -21.33061250971258
+  y: 146.0
+  z: 0.425423046754249
+  pitch: 6.754979
+  yaw: -7.5331397
+  world: world

@@ -1,0 +1,41 @@
+#USE & ao invés de &
+
+
+#MENSAGENS
+
+Permission: '&4Sem permissão'
+reloaded: '&6Plugin recarregado'
+console-cmd: '&cComando apenas em jogo'
+leave-msg: '&aDigite: &c/sair &acaso queira voltar para spawn'
+
+#SET
+fps-set: '&aFPS SETADA'
+lava-set: '&aLava setada'
+knockback-set: '&aKnockback setada'
+leave-set: '&aSaída setada'
+fps-not-set: '&4FPS NÃO SETADA'
+lava-not-set: '&4Lava não setada'
+knockback-not-set: '&4Knockback não setada'
+leave-not-set: '&4Saída não setada'
+1v1-set: '&a1V1 SETADA'
+1v1-not-set: '&c1v1 não setada'
+
+#teleport
+fps-teleport: '&aTeleportado para warp: &bFPS'
+lava-teleport: '&aTeleportado para warp: &bLavaChallenge'
+knockback-teleport: '&aTeleportado para warp: &bKnockback'
+leave-teleport: '&aTeleportado pro spawn'
+Command-blocked: '&4Comandos desativados. &aDê &c/sair. &a para conseguir usar comandos'
+1v1-teleport: '&eTeleportado para: &b1v1'
+teleport-cancel: '&eVocê se moveu, teleporte &ccancelado'
+#MENUS
+soup-inventory: '&cSopa'
+menu-name: '&aKitPvP Warps'
+fps-menu: '&bFPS'
+fps-lore: '&7* &bWarp FPS'
+lava-menu: '&6LavaChallenge'
+lava-lore: '&7* &6Warp LavaChallange'
+knock-menu: '&5Knockback'
+knock-lore: '&7* &5Warp Knockback'
+leave-menu: '&cSaida'
+leave-lore: '&7* &cVoltar pro spawn'
